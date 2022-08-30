@@ -21,21 +21,21 @@ const app = {
           name: "Tu Phir Se Aana",
           singer: "Raftaar x Salim Merchant x Karma",
           path: "./music/audio/K-391-Summertime-Sunshine-K391.mp3",
-          image: "/music/img/4b5895ae60825aaea0203801b325b5e4.jpg"
+          image: "./music/img/4b5895ae60825aaea0203801b325b5e4.jpg"
         },
         {
           name: "Naachne Ka Shaunq",
           singer: "Raftaar x Brobha V",
           path:
             "./music/audio/Lemon-Tree-Remix-DJ.mp3",
-          image: "/music/img/a33b8a4501928ad324012da757f087ae.jpg"
+          image: "./music/img/a33b8a4501928ad324012da757f087ae.jpg"
         },
         {
           name: "Aage Chal",
           singer: "Raftaar",
           path: "./music/audio/Reality-Lost-Frequencies-Janieck-Devy.mp3",
           image:
-            "/music/img/b04e6323cbcb616a65ee6261b5de27d9.jpg"
+            "./music/img/b04e6323cbcb616a65ee6261b5de27d9.jpg"
         },
         {
           name: "Damn",
@@ -43,34 +43,34 @@ const app = {
           path:
             "./music/audio/TheFatRat-feat-Laura-Brehm-The-Calling.mp3",
           image:
-            "/music/img/c91a36f1dbdd12b3f9537fc662cb51de.jpg"
+            "./music/img/c91a36f1dbdd12b3f9537fc662cb51de.jpg"
         },
         {
           name: "Feeling You",
           singer: "Raftaar x Harjas",
           path: "./music/audio/Vicetone-Nevada-Remix.mp3",
           image:
-            "/music/img/ce3ea20afae0479f4b792539e1626c92.jpg"
+            "./music/img/ce3ea20afae0479f4b792539e1626c92.jpg"
         },
         {
             name: "Tu Phir Se Aana1",
             singer: "Raftaar x Salim Merchant x Karma",
             path: "./music/audio/K-391-Summertime-Sunshine-K391.mp3",
-            image: "/music/img/4b5895ae60825aaea0203801b325b5e4.jpg"
+            image: "./music/img/4b5895ae60825aaea0203801b325b5e4.jpg"
           },
           {
             name: "Naachne Ka Shaunq1",
             singer: "Raftaar x Brobha V",
             path:
               "./music/audio/Lemon-Tree-Remix-DJ.mp3",
-            image: "/music/img/a33b8a4501928ad324012da757f087ae.jpg"
+            image: "./music/img/a33b8a4501928ad324012da757f087ae.jpg"
           },
           {
             name: "Aage Chal1",
             singer: "Raftaar",
             path: "./music/audio/Reality-Lost-Frequencies-Janieck-Devy.mp3",
             image:
-              "/music/img/b04e6323cbcb616a65ee6261b5de27d9.jpg"
+              "./music/img/b04e6323cbcb616a65ee6261b5de27d9.jpg"
           },
           {
             name: "Damn1",
@@ -78,34 +78,34 @@ const app = {
             path:
               "./music/audio/TheFatRat-feat-Laura-Brehm-The-Calling.mp3",
             image:
-              "/music/img/c91a36f1dbdd12b3f9537fc662cb51de.jpg"
+              "./music/img/c91a36f1dbdd12b3f9537fc662cb51de.jpg"
           },
           {
             name: "Feeling You1",
             singer: "Raftaar x Harjas",
             path: "./music/audio/Vicetone-Nevada-Remix.mp3",
             image:
-              "/music/img/ce3ea20afae0479f4b792539e1626c92.jpg"
+              "./music/img/ce3ea20afae0479f4b792539e1626c92.jpg"
           },
           {
             name: "Tu Phir Se Aana2",
             singer: "Raftaar x Salim Merchant x Karma",
             path: "./music/audio/K-391-Summertime-Sunshine-K391.mp3",
-            image: "/music/img/4b5895ae60825aaea0203801b325b5e4.jpg"
+            image: "./music/img/4b5895ae60825aaea0203801b325b5e4.jpg"
           },
           {
             name: "Naachne Ka Shaunq2",
             singer: "Raftaar x Brobha V",
             path:
               "./music/audio/Lemon-Tree-Remix-DJ.mp3",
-            image: "/music/img/a33b8a4501928ad324012da757f087ae.jpg"
+            image: "/.music/img/a33b8a4501928ad324012da757f087ae.jpg"
           },
           {
             name: "Aage Chal2",
             singer: "Raftaar",
             path: "./music/audio/Reality-Lost-Frequencies-Janieck-Devy.mp3",
             image:
-              "/music/img/b04e6323cbcb616a65ee6261b5de27d9.jpg"
+              "./music/img/b04e6323cbcb616a65ee6261b5de27d9.jpg"
           },
           {
             name: "Damn2",
@@ -113,14 +113,14 @@ const app = {
             path:
               "./music/audio/TheFatRat-feat-Laura-Brehm-The-Calling.mp3",
             image:
-              "/music/img/c91a36f1dbdd12b3f9537fc662cb51de.jpg"
+              "./music/img/c91a36f1dbdd12b3f9537fc662cb51de.jpg"
           },
           {
             name: "Feeling You2",
             singer: "Raftaar x Harjas",
             path: "./music/audio/Vicetone-Nevada-Remix.mp3",
             image:
-              "/music/img/ce3ea20afae0479f4b792539e1626c92.jpg"
+              "./music/img/ce3ea20afae0479f4b792539e1626c92.jpg"
           }
     ],
     
